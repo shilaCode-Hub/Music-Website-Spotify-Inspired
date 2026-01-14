@@ -1,4 +1,4 @@
-#MusicWebsiteProject (Spotify-Inspired)
+🎵 Music Website Project (Spotify-Inspired)
 
 I developed a responsive music website using HTML, CSS, and JavaScript to understand how music-based web applications work at a fundamental level.
 
