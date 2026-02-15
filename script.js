@@ -1,6 +1,6 @@
 console.log("Welcome to Spotify");
 let songIndex = 0;
-let audioElement  = new Audio('musics/Alex Hagen - Superhero [NCS Release].mp3');
+let audioElement  = new Audio('songs/Superhero.mp3');
 let masterPlay = document.getElementById('masterPlay');
 let myProgressBar = document.getElementById('myProgressBar');
 let gif = document.getElementById('gif');
@@ -128,4 +128,5 @@ document.getElementById('previous').addEventListener('click',()=>{
         masterPlay.classList.add('fa-circle-pause');
         gif.style.opacity = 1;
 });
+
 
